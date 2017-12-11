@@ -1,0 +1,10 @@
+Package: SimplePerceptron
+Type: Package
+Title: Performs Simple Perceptron on the data
+Version: 0.1.0
+Author: Navya Yenuganti
+Maintainer: Navya Yenuganti <navya.yenuganti@ttu.edu>
+Description: It finds the linear seperator of the data by updating weights.
+License: GPL-2
+Encoding: UTF-8
+LazyData: False
